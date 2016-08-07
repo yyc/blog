@@ -16,7 +16,7 @@ author :
   github : yyc
   twitter : yuchua
   facebook: yuanyuchuan
-  #feedburner : feedname
+  feedburner : https://yyc.github.com/blog/rss.xml
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
