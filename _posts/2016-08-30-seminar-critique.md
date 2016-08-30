@@ -33,4 +33,9 @@ Prisma actively piggybacks on Instagram to provide social features to its users,
 
 However, that also makes me inclined to lump Prisma with Hipstamatic, because they function well as proofs-of-concept of an image enhancement/manipulation technology, but without a core social feature that aids in user retention. Much of their appeal lies in their novelty and creation of interesting images, rather than in any long-term value to the user.
 
-This can be contrasted with Snapchat and Instagram, which have communication as their primary feature, and image manipulation as addons. In this way, they leverage on network effects to retain users while having an easy way (i.e. introducing new filters) to continuously provide new experiences to users.
+This can be contrasted with Snapchat and Instagram, which function primarily as communicative tools, and secondarily as image-enhancing tools. In this way, they leverage on social network effects to retain users while having an easy way (i.e. new filters) to continuously provide new experiences to users.
+
+
+### Conclusion
+
+If Prisma is to have a goal to eventually become a social platform (disclaimer: which it might not be), it might be prudent for it to take these factors into account. That said, Instagram has a huge advantage in the image-sharing space, and it may be an unwise use of resources to attempt to enter that space. Perhaps, as group 5 suggests, Prisma might find it more promising to develop innovative applications for their algorithm, such as in delivering Virtual Reality experiences, or in enhancing videos that previously had to be hand-drawn.
