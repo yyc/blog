@@ -556,13 +556,44 @@ html {
 .body .unit-body {
   background-color: #fafafa;
 }
+.body .unit-body h2,
+.body .unit-body h3,
+.body .unit-body h4,
+.body .unit-body h5,
+.body .unit-body h6 {
+  color: #2d2d2d;
+}
+.body .unit-body h2 a:link,
+.body .unit-body h3 a:link,
+.body .unit-body h4 a:link,
+.body .unit-body h5 a:link,
+.body .unit-body h6 a:link {
+  color: #2d2d2d;
+  border: 0;
+}
+.body .unit-body h2 a:visited,
+.body .unit-body h3 a:visited,
+.body .unit-body h4 a:visited,
+.body .unit-body h5 a:visited,
+.body .unit-body h6 a:visited {
+  color: #141414;
+  border: 0;
+}
+.body .unit-body h2 a:hover,
+.body .unit-body h3 a:hover,
+.body .unit-body h4 a:hover,
+.body .unit-body h5 a:hover,
+.body .unit-body h6 a:hover {
+  color: #474747;
+  border: 0;
+}
 /* LINK */
 a:link {
-  color: #2d2d2d;
+  color: #c26164;
   text-decoration: none;
 }
 a:visited {
-  color: #141414;
+  color: #ad4346;
   text-decoration: none;
 }
 a:hover {
@@ -727,7 +758,6 @@ pre {
 }
 .unit-article img {
   display: block;
-  margin-left: auto;
   margin-left: auto;
 }
 .unit-article img.left {

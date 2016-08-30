@@ -25,17 +25,35 @@ html {
 .body {
 	.unit-body {
 		background-color: #fafafa;
+		h2, h3, h4, h5, h6 {
+			color: @main-font-color;
+			a {
+				&:link {
+					color: @main-font-color;
+					border: 0;
+				}
+				&:visited {
+					color: darken(@main-font-color, 10%);
+					border: 0;
+				}
+				&:hover {
+					color: lighten(@main-font-color, 10%);
+					border: 0;
+				}
+			}
+		}
+
 	}
 }
 
 /* LINK */
 a {
 	&:link {
-		color: @main-font-color;
+		color: @accent-color;
 		text-decoration: none;
 	}
 	&:visited {
-		color: darken(@main-font-color, 10%);
+		color: darken(@accent-color, 10%);
 		text-decoration: none;
 	}
 	&:hover {
@@ -49,7 +67,7 @@ pre { margin-bottom: @line-height / @em; }
 pre {
 	color: #f2f2f2;
 	background-color: @base02;
-	border: 1px solid fadein(@base02, 30%); 
+	border: 1px solid fadein(@base02, 30%);
 	font-family: @font-stack;
 	margin-left: 0;
 	margin-right: 0;
@@ -140,7 +158,7 @@ pre {
 		ol { list-style: decimal; }
 		li, dt, dd {
 			h1, h2, h3, h4, h5, p, ul, ol, dl, blockquote, .hasGrid { margin-left: 0; margin-right: 0; }
-		} 
+		}
 		p code, li code {
 			padding: 2px 5px;
 			white-space: nowrap;
@@ -180,7 +198,7 @@ pre {
 		.list-category {
 			margin-bottom: 0;
 			text-transform: capitalize;
-			
+
 		}
 		.list-tag {
 			text-transform: capitalize;
