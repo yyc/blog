@@ -7,8 +7,6 @@ tags: []
 ---
 {% include JB/setup %}
 
-# Prisma
-
 ## Summary
 
 Prisma is a recent (launched in June 2016!) photography app that goes one step beyond simple color-manipulation filters, and does sophisticated image analysis to recreate images in the form of famous art styles. In effect, it allows users to "turn every photo into art".
@@ -30,3 +28,9 @@ Reflecting upon the presentation, two parallels stuck out to me: Hipstamatic and
 The first, Hipstamatic, was Apple's very first App of the Year. Like Instagram does now, Hipstamatic offered a (then) novel experience in making image enhancement easy and painless, making the creation of "artistic" images accessible to every person with a smartphone. For a while, it did get a huge volume of downloads and rave reviews, it ultimately lost out to Instagram in terms of userbase.
 
 Contrast this with Snapchat, which now has its facial-recognition filters as a key feature, and sponsored, location-based filters as an effective cornerstone of their monetization strategy. However, it didn't always start out this way. In fact, for much of Snapchat's existence, it was simply a very easy way of sharing one-time photos and videos with other people, with the filters coming only much later.
+
+Prisma actively piggybacks on Instagram to provide social features to its users, which is sensible, since much of its userbase would already be accustomed to sharing images on Instagram.
+
+However, that also makes me inclined to lump Prisma with Hipstamatic, because they function well as proofs-of-concept of an image enhancement/manipulation technology, but without a core social feature that aids in user retention. Much of their appeal lies in their novelty and creation of interesting images, rather than in any long-term value to the user.
+
+This can be contrasted with Snapchat and Instagram, which have communication as their primary feature, and image manipulation as addons. In this way, they leverage on network effects to retain users while having an easy way (i.e. introducing new filters) to continuously provide new experiences to users.
