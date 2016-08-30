@@ -16,6 +16,7 @@ How it works is simple, a user takes a photo, picks a "filter" based on an exist
 Group 5 also provides some suggestions for how they would implement Prisma if they had to do it themselves, namely, to use Google's Tensorflow to construct the Convolutional Neural Network that powers the image manipulation algorithm. However, it may be prudent to consult the existing research on the particular form of image manipulation ([A Neural Algorithm of Artistic Style (Gatys et al., 2015)](https://arxiv.org/abs/1508.06576)), which the founders of Prisma probably based their app on). Implementation could also be expedited by building on existing open-source implementations, such as (this Github project)[https://github.com/jcjohnson/neural-style] which implements the algorithm outlined in the paper.
 
 A notable problem with Prisma that the group raised was that Prisma claimed a license over the images that you use with their app. Digging into their terms of use, I do find the following:
+
 >Prisma does not claim ownership of any Content that you post on or through the Service. Instead, you hereby grant to Prisma a non-exclusive, fully paid and royalty-free, transferable, sub-licensable, worldwide license to use the Content that you stylize on or through the Service, subject to the Service’s Privacy Policy...
 
 Which some people may naturally find problematic.
