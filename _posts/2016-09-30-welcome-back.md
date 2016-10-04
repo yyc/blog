@@ -33,7 +33,7 @@ Maybe next year, yeah?
 
 Something that I did manage to get working, that I'm pretty proud of, was Telegram Authentication.
 
-![Login with Telegram](/blog/images/lmk-login-with-telegram.png)
+![Login with Telegram](/blog/assets/images/lmk-login-with-telegram.png)
 
 As you may or may not know, Telegram doesn't offer an authentication API, so you can't typically log in directly with Telegram. Did that stop us? Of course not! Because so much of our app relied upon Telegram integration (in the form of our bot, [@lmknowbot](http://telegram.me/lmknowbot)), we wanted to make it such that you could log in solely with Telegram, without needing to first authenticate with Facebook / create an account, then link your Telegram username. Accomplishing this, however, required some creative thinking.
 
