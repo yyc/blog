@@ -16,9 +16,9 @@ But yeah, we have to rebrand at pretty short notice. Which sucks. An afternoon o
 Deciding on that means that we can also finalize our assets and marketing campaign. First up is the logo, to be designed by yours truly.
 
 It was originally supposed to be a crosshair:
-![First icon](/blog/assets/images/first_icon.png)
+![First icon](/blog/assets/images/first_logo.png)
 but I figured that it carried a little too much negative connotation, so I tried to stylize it as a triangular crosshair
-![Second icon](/blog/assets/images/first_icon.png)
+![Second icon](/blog/assets/images/first_logo.png)
 But it was still a little weird. At Chi Thanh's suggestion, I took a few design cues from this app icon:
 ![Prisma logo](/blog/assets/images/prisma_logo.jpg)
 
