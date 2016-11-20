@@ -31,7 +31,7 @@ into
 
 ![Final Screenshot](/blog/assets/images/final_screenshot.jpg)
 
-Without a designer, I had to step up to the plat and I find that I quite like it. I had thought there wasn't a creative bone in my body, but it turns out that I may have a few, having designed pretty much all of the graphical materials and doing plenty of polishing on the UI to make it presentable. There's still plenty to be done but, hey, there always is.
+Without a designer, I had to step up to the plate and I find that I quite like it. I had thought there wasn't a creative bone in my body, but it turns out that I may have a few, having designed pretty much all of the graphical materials and doing plenty of polishing on the UI to make it presentable. There's still plenty to be done but, hey, there always is.
 
 If I had to name a regret, I would say that I regret not working on my Assignment 1 project for the final. I think that one had real potential (that was somewhat squandered in Assignment 1), and that ShareStuff.Online did solve a real pain for a lot of people. I know everyone steps into CS3216 wanting to build the next NUSMods or NUSWhispers, and not everyone can succeed simply for logistical reasons. I know I did, and I regret that I didn't get to, by virtue of the quality of my ideas and execution.
 
