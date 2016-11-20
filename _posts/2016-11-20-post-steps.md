@@ -36,3 +36,5 @@ Without a designer, I had to step up to the plat and I find that I quite like it
 If I had to name a regret, I would say that I regret not working on my Assignment 1 project for the final. I think that one had real potential (that was somewhat squandered in Assignment 1), and that ShareStuff.Online did solve a real pain for a lot of people. I know everyone steps into CS3216 wanting to build the next NUSMods or NUSWhispers, and not everyone can succeed simply for logistical reasons. I know I did, and I regret that I didn't get to, by virtue of the quality of my ideas and execution.
 
 What I don't regret, however, is the incredible people that I've worked with. Yichen, Zhi An, Varun (Assignment 1), Hanming, Louie, Zhu Liang (Assignment 2), Derek, Van and Chi Thanh (Assignment 3 and Final Project), you all made my CS3216 experience amazing, and I've learned tons from and with each of you, so thank you.
+
+It's been a blast. See you in CS3217! Yuchuan out.
