@@ -16,7 +16,7 @@ Aanyway.
 ### UI/UX
 Doing UI/UX reviews internally is pretty interesting. I seem to have developed a knack for seeing what's problematic with a particular design and pointing out how it can be improved. Maybe it's because I'm not developing the frontend, which is why I can look at it from the perspective of the user. This probably would prove to be a pretty useful skill in the future, if I am able to apply it similarly to my own projects.
 
-![Jaedye Dashboard](/blog/images/jaedye_dashboard.jpg)
+![Jaedye Dashboard](/blog/assets/images/jaedye_dashboard.jpg)
 This is what the main dashboard looks like right now. It's not very pretty (plus there's some double-vision bug where the same thing is being rendered twice). Will fix, hopefully.
 
 ### Marketing
